@@ -31,7 +31,7 @@ class _WeatherPageState extends State<WeatherPage> {
 
   Future<void> _fetchWeatherData() async {
     // API key for OpenWeatherMap (replace with your own key)
-    final String apiKey = '9af64933f6829ccf2ee0269b7aad2bd8';
+    final String apiKey = '';
     // Get location entered by the user
     final String location = _locationController.text;
     // Construct the API URL with location and API key
