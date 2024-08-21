@@ -1,6 +1,6 @@
-# weather_app
+# Skycast
 
-A new Flutter project.
+A flutter project that shows real time weather conditions from different regions accross the world
 
 ## Getting Started
 
